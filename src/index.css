@@ -1,0 +1,39 @@
+nav{
+  background-color: rgb(66, 71, 76);
+  box-shadow: 0 3px 10px rgb(0 0 0 / 0.5);
+}
+
+.back{
+  background-image: url(assets/img/back.jpg);
+  background-repeat: no-repeat;
+  background-size:cover;
+  opacity: 0.8;
+}
+
+.img-cart{
+  width: 80px;
+  height: 80px;
+}
+
+.links{
+  text-decoration: none;
+} 
+
+.title-table{
+  caption-side: top;
+  color: black;
+  font-size: 20px;
+}
+
+.card{
+  box-shadow: 0 3px 10px rgb(0 0 0 / 0.5);
+}
+
+.card-hover:hover{
+  transform: scale(1.06);
+  box-shadow: 0 3px 10px rgba(241, 10, 10, 1);
+}
+
+button:hover{
+  transform: scale(1.15);
+}
